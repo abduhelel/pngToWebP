@@ -1,6 +1,7 @@
-# pngToWebP
-png图片抓换 Webp工具类
+# png To WebP 
 
 How to Use?
 java -jar img_test.jar 
+
+Author : abu
 
